@@ -1,6 +1,7 @@
 # AkShare 本地脚本集
 
 本仓库是在 [AkShare](https://github.com/akfamily/akshare) 之上写的两个小工具：A 股条件筛选，以及对固定股票池的近 30 个交易日走势与涨跌幅对比图。
+https://mp.weixin.qq.com/s/E8jYJVFT8lH2k0uVLMj73A   // 例子教程
 
 ## 环境要求
 
